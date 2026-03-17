@@ -12,7 +12,4 @@ sudo apt install nginx -y
 sudo systemctl start nginx
 sudo systemctl enable nginx
 
-Ashish Make change in sudo
-vip changes
-
-
+MAKES installed"
